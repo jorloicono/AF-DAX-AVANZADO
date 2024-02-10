@@ -5,16 +5,13 @@
 - Crear tablas y columnas calculadas
 - Crear medidas propias
 - Expresión CALCULATE
-- Realizar análisis temporal de tendencias
-- Calcular proyecciones de días
+- Usar funciones de tabla y comprender FILTER, ALL, Y ALLEXCEPT
 - Aplicar cálculos de medias móviles
 
  ## Contextos de evaluación
  
 - Comprender el contexto de filtro y el contexto de fila
-- Usar funciones de tabla y comprender FILTER, ALL, Y ALLEXCEPT
 - Aplicar ALLSELECT y USERRELATIONSHIP
-- Realizar análisis de rendimiento y clasificación
 - Calcular ratios y porcentajes
 - Implementar totales acumulados
 
