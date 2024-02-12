@@ -5,7 +5,7 @@
 - Crear tablas y columnas calculadas
 - Crear medidas propias
 - Expresión CALCULATE
-- Usar funciones de tabla y comprender FILTER, ALL, Y ALLEXCEPT
+- Usar funciones de tabla y comprender FILTER y REMOVEFILTERS
 - Aplicar cálculos de medias móviles
 
  ## Contextos de evaluación
